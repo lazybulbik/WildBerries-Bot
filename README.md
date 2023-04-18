@@ -1,7 +1,7 @@
 ## Телеграм бот - аналитик маркетплейса WildBerries
 
 Телеграм бот, способный проводить аналитику по товарам маркетплейса WildBerries.
-![](https://raw.githubusercontent.com/lazybulbik/images/main/wb_bot.jpg?token=GHSAT0AAAAAACAGXN4FD65EIYD473D2I7GMZB6QHTQ)
+![Image alt](https://github.com/lazybulbik/images/blob/main/wb_bot.jpg)
 
 **Технологии**
 
